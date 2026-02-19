@@ -2,7 +2,7 @@
  ### Hello👋 I'm Gowshwah 
 
  I am a Software Engineer👨‍💻, focusing primarily on web development. <br/>
- You can visit my homepage at https://nodjoy.com/ or check out my bio at https://bento.me/nodjoy/
+ You can visit my homepage at https://nodjoy.com/
 
 
  ## ⚡ Skills
